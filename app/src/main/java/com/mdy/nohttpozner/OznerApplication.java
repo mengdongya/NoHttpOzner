@@ -10,7 +10,7 @@ public class OznerApplication extends BaseApplication {
     @Override
     public void onCreate() {
         super.onCreate();
-        Logger.setDebug(true);
-        Logger.setTag("mdy");
+//        Logger.setDebug(true);
+//        Logger.setTag("mdy");
     }
 }

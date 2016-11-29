@@ -3,4 +3,12 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+    <color name="fz_blue">#48b4e9</color>
+    <color name="bg_gray">#f3f5f9</color>
+    <color name="font_black">#626262</color>
+    <color name="theme_blue">#48b4e9</color>
+    <color name="fz_blue_s">#0276b0</color>
+    <color name="fz_red">#f26368</color>
+    <color name="white">#ffffff</color>
+    <color name="gray">#666666</color>
 </resources>
