@@ -9,4 +9,5 @@ butterknife8.0之后的版本集成需要在项目根目录的build.gradle文件
 在依赖文件中添加同版本的
     compile 'com.jakewharton:butterknife:8.4.0'
     apt 'com.jakewharton:butterknife-compiler:8.4.0'
+官方文档：readme.md里有集成方式，项目修改为官网集成模式
 
